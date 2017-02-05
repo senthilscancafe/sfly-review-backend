@@ -1,2 +1,2 @@
 # sfly-review-backend
-Backend fro Shutterfly Application
+Backend for Shutterfly Application
